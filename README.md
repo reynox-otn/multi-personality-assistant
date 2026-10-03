@@ -136,8 +136,8 @@ I built this project to create a simple and approachable way for people who stru
 ## GitHub
 You can find this project and more on my GitHub profile:
 
-- **GitHub:** `https://github.com/<your-username>`
-- **Repository name suggestion:** `multi-personality-assistant`
+- **GitHub:** `https://github.com/<reynox-otn>`
+- **Repository name :** `multi-personality-assistant`
 
 ## Author
 **Otniel**  
